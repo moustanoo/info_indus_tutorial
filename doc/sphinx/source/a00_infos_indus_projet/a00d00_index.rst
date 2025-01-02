@@ -7,7 +7,8 @@
 Table des matières
 *******************
 .. toctree:: 
-   :maxdepth: 3
-   :caption: Projet Informatique Industrielle
+   :maxdepth: 2
 
-   a00_infos_indus_projet/a00s00_index
+   a00d01_prise_en_maim
+   a00d02_dynamixel
+   a00d03_Cartographie
