@@ -1,17 +1,37 @@
-.. Infos_indus_projet documentation master file, created by
-   sphinx-quickstart on Wed Jan  1 22:15:39 2025.
+.. Cours d'Informatique Industrielle avec ROS2 documentation master file, created by
+   sphinx-quickstart on Fri Oct 11 03:57:42 2024.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Infos_indus_projet documentation
-================================
-
-Add your content using ``reStructuredText`` syntax. See the
-`reStructuredText <https://www.sphinx-doc.org/en/master/usage/restructuredtext/index.html>`_
-documentation for details.
-
+*******************
+Table des matières
+*******************
 
 .. toctree::
-   :maxdepth: 2
-   :caption: Contents:
+   :maxdepth: 3
+   :caption: Informatique Industrielle & ROS2
 
+   c00_introduction/p00s00_index
+   c01_create_and_publish_doc/p01s00_index
+   c02_first_ros2_project_pimped/p02s00_index
+   c03_test_your_code/p03s00_index
+   c04_collaborate_with_coders/p04s00_index
+
+.. toctree:: 
+   :maxdepth: 3
+   :caption: Travaux Pratiques
+
+   p00_pentograph_pencil_holder_with_rpi_and_dynamixel/p50s00_index
+   p01_rpi_ubuntu_as_a_ros2_robotic_platform/p51s00_index
+
+.. toctree:: 
+   :maxdepth: 3
+   :caption: Projet Informatique Industrielle
+
+   a00_infos_indus_projet/a00s00_index
+
+**************************
+Index, figures et tableaux
+**************************
+
+* :ref:`genindex`
